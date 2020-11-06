@@ -23,7 +23,7 @@
             </div>
             <div class="col-sm-3">
                 <img src="cat5.jpg" style="height: 200px;" style="width: 50px;" class="img-fluid" />
-                <img src="cat6.jpg" style="height: 100px;" style="width: 50px;" class="img-fluid img-thumbnail" />
+                <img src="cat2.png" style="height: 100px;" style="width: 50px;" class="img-fluid img-thumbnail" />
             </div>
         </div> <!-- Close Row -->
     </div> <!-- Close container -->
