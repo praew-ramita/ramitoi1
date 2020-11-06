@@ -13,15 +13,15 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-sm-6">
+            <div class="col-md-6">
                 <img src="cat1.jpg" style="height:300px;" style="width: 100px;" class="img-fluid rounded" />
             </div>
-            <div class="col-sm-3">
+            <div class="col-md-3">
                 <img src="cat.jpg" style="height:100px;" style="width: 50px;" class="img-fluid img-thumbnail" />
                 <img src="cat3.jpg" style="height:100px;" style="width: 50px;" class="img-fluid img-thumbnail" />
                 <img src="cat4.jpg" style="height:100px;" style="width: 50px;" class="img-fluid img-thumbnail" />
             </div>
-            <div class="col-sm-3">
+            <div class="col-md-3">
                 <img src="cat5.jpg" style="height: 200px;" style="width: 50px;" class="img-fluid" />
                 <img src="cat2.png" style="height: 100px;" style="width: 50px;" class="img-fluid img-thumbnail" />
             </div>
