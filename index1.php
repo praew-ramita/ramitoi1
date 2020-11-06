@@ -11,7 +11,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                <img src="office18.jpg" style="height:300px;" style="width: 100px;"class="img-fluid rounded" />
+                <img src="cat5.jpg" style="height:300px;" style="width: 100px;"class="img-fluid rounded" />
             </div>
             <div class="col-sm-3">
                 <img src="cat.jpg" style="height:100px;" style="width: 50px;"class="img-fluid img-thumbnail" />
