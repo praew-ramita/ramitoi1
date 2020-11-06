@@ -16,7 +16,7 @@
             <div class="col-sm-3">
                 <img src="cat.jpg" style="height:100px;" style="width: 50px;"class="img-fluid img-thumbnail" />
                 <img src="cat1.jpg" style="height:100px;" style="width: 50px;"class="img-fluid img-thumbnail" />
-                <img src="cat2.jpg" style="height:100px;" style="width: 50px;"class="img-fluid img-thumbnail" />
+                <img src="cat2.png" style="height:100px;" style="width: 50px;"class="img-fluid img-thumbnail" />
             </div>
             <div class="col-sm-3">
                 <img src="cat3.jpg" style="height: 150px;" style="width: 50px;" class="img-fluid" />
