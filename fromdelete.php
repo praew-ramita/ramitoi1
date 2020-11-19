@@ -6,7 +6,7 @@
 </head>
 <body>
   <form action = "delete.php" method = "post" id="CommentForm" >
-    Name want to delete:<br>
+    What's name you want to delete?:<br>
     <input type="text" name = "name" id="idName" placeholder="Enter Name"> <br>
     <input type="submit" id="commentBtn">
   </form> 
